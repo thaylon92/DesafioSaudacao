@@ -24,12 +24,8 @@ func pegarSaudacao() -> String {
         return "Ainda esta acordado ?"
         
     }
-    
     return ""
 }
-
-
-
 
 
 print(pegarSaudacao()) // Ainda está acordado?
